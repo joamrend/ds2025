@@ -1,2 +1,8 @@
-This is just a testing text file.
-Nothing here is relevant to someone.
+/// El estudio del arte ///
+Ideas de la docente:
+- Qué tipo de Eventos o planificaciones está siendo especificado?
+- Para qué clase de usuarios/clientes?
+- Con qué finalidad?
+- Cómo actualmente administra su gestión de evento con sus clientes?
+- Su metodología actual, qué problemáticas ha presentado para requerir de una solución digital?
+- 
